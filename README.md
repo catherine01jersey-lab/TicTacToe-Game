@@ -6,7 +6,11 @@ A simple TicTacToe game implementation in Java.
 - Two-player support
 - Win detection
 
+- Updated from github
+
 ## How to play
 ```bash
 javac src/TicTacToe.java
 java -cp src TicTacToe
+
+
